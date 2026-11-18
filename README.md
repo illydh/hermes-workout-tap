@@ -25,7 +25,10 @@ python3 scripts/workout_tool.py validate --equipment dumbbells,bench --minutes 4
 
 ## Versions
 
-Tag `v0.1.0` is the first release (`version: 0.1.0` in `SKILL.md`).
+- `v0.1.1`: commands use `${HERMES_SKILL_DIR}`, so they run from any working folder; the skill tells the agent
+  to stop, not improvise, when a command fails. This is the version to install (`version: 0.1.1` in `SKILL.md`).
+- `v0.1.0`: first release. Its commands used paths relative to the skill folder, which an agent's terminal does
+  not start in.
 
 ## Data and license
 

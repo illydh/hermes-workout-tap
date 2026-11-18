@@ -1,7 +1,7 @@
 ---
 name: workout
 description: "Plan a strength or run session from a reviewed exercise catalog: a venue-aware shortlist, a schema the model must follow, and a code-checked duration. Proposes only; no weights, no medical advice."
-version: 0.1.0
+version: 0.1.1
 author: hw3
 platforms: [linux, macos]
 metadata:
@@ -26,15 +26,17 @@ medical questions or weights to lift: say that is outside this skill.
    available (15 to 120), the session type (`lift` or `run`) and the goal in a few words.
    Equipment tags: `mat`, `dumbbells`, `bench`, `cable`, `barbell`, `squat_rack`, `kettlebell`,
    `bands`. A home with nothing is `none`. Never assume equipment the user did not list.
-2. Run `python3 scripts/workout_tool.py prompt --equipment <tags> --minutes <n> --type <lift|run> --goal "<goal>"`.
+2. Run `python3 ${HERMES_SKILL_DIR}/scripts/workout_tool.py prompt --equipment <tags> --minutes <n> --type <lift|run> --goal "<goal>"`.
    It prints the instructions, the schema and a shortlist of about 40 exercises the venue
    supports. Use only exercise ids from that shortlist.
 3. Write the workout as one JSON object exactly as the prompt describes, then pipe it to
-   `python3 scripts/workout_tool.py validate --equipment <tags> --minutes <n>`.
+   `python3 ${HERMES_SKILL_DIR}/scripts/workout_tool.py validate --equipment <tags> --minutes <n>`.
    If it prints `"valid": false`, fix the named problem once and validate again. If it still
    fails, tell the user you could not produce a valid session.
 4. Show the user the title, the exercises with sets and reps or seconds, and the duration the
    tool calculated (never your own estimate).
+
+If a command fails to run, say so and stop. Never write a workout the tool did not validate.
 
 ## Limits
 
