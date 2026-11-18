@@ -20,13 +20,15 @@ can also be run by hand from its installed folder:
 
 ```bash
 python3 scripts/workout_tool.py prompt --equipment dumbbells,bench --minutes 40 --type lift --goal "upper-body strength"
-python3 scripts/workout_tool.py validate --equipment dumbbells,bench --minutes 40 < workout.json
+python3 scripts/workout_tool.py validate --equipment dumbbells,bench --minutes 40 --workout "$(cat workout.json)"
 ```
 
 ## Versions
 
+- `v0.1.2`: the validator takes the workout as an argument (`--workout`), because Hermes's command scanner blocks
+  output piped into `python3`. This is the version to install (`version: 0.1.2` in `SKILL.md`).
 - `v0.1.1`: commands use `${HERMES_SKILL_DIR}`, so they run from any working folder; the skill tells the agent
-  to stop, not improvise, when a command fails. This is the version to install (`version: 0.1.1` in `SKILL.md`).
+  to stop, not improvise, when a command fails.
 - `v0.1.0`: first release. Its commands used paths relative to the skill folder, which an agent's terminal does
   not start in.
 

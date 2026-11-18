@@ -1,7 +1,7 @@
 ---
 name: workout
 description: "Plan a strength or run session from a reviewed exercise catalog: a venue-aware shortlist, a schema the model must follow, and a code-checked duration. Proposes only; no weights, no medical advice."
-version: 0.1.1
+version: 0.1.2
 author: hw3
 platforms: [linux, macos]
 metadata:
@@ -29,8 +29,9 @@ medical questions or weights to lift: say that is outside this skill.
 2. Run `python3 ${HERMES_SKILL_DIR}/scripts/workout_tool.py prompt --equipment <tags> --minutes <n> --type <lift|run> --goal "<goal>"`.
    It prints the instructions, the schema and a shortlist of about 40 exercises the venue
    supports. Use only exercise ids from that shortlist.
-3. Write the workout as one JSON object exactly as the prompt describes, then pipe it to
-   `python3 ${HERMES_SKILL_DIR}/scripts/workout_tool.py validate --equipment <tags> --minutes <n>`.
+3. Write the workout as one JSON object exactly as the prompt describes, then pass it in single quotes to
+   `python3 ${HERMES_SKILL_DIR}/scripts/workout_tool.py validate --equipment <tags> --minutes <n> --workout '<json>'`
+   (an argument, never piped: agent command scanners block output piped into `python3`).
    If it prints `"valid": false`, fix the named problem once and validate again. If it still
    fails, tell the user you could not produce a valid session.
 4. Show the user the title, the exercises with sets and reps or seconds, and the duration the

@@ -2,10 +2,11 @@
 
   python3 scripts/workout_tool.py prompt --equipment mat,dumbbells --minutes 45 --goal "..."
   python3 scripts/workout_tool.py candidates --equipment none --type run
-  echo '{...workout json...}' | python3 scripts/workout_tool.py validate --equipment mat --minutes 45
+  python3 scripts/workout_tool.py validate --equipment mat --minutes 45 --workout '{...workout json...}'
 
 Equipment is a comma-separated list of: mat, dumbbells, bench, cable, barbell, squat_rack,
-kettlebell, bands. Use "none" for a venue with no equipment (home).
+kettlebell, bands. Use "none" for a venue with no equipment (home). The workout is an argument, not
+standard input: agent command scanners (Hermes's among them) block output piped into an interpreter.
 """
 
 import argparse
@@ -34,6 +35,8 @@ def main(argv: list[str] | None = None) -> int:
             command.add_argument("--minutes", type=int, required=True, help="time available, 15 to 120")
         if name == "prompt":
             command.add_argument("--goal", required=True)
+        if name == "validate":
+            command.add_argument("--workout", required=True, help="the workout as one JSON object")
     args = parser.parse_args(argv)
     try:
         if args.command == "candidates":
@@ -42,7 +45,7 @@ def main(argv: list[str] | None = None) -> int:
         elif args.command == "prompt":
             print(workouts.generation_prompt(args.goal, args.equipment, args.minutes, [], args.session_type))
         else:
-            workout = workouts.validate_workout(json.loads(sys.stdin.read()), args.equipment, args.minutes)
+            workout = workouts.validate_workout(json.loads(args.workout), args.equipment, args.minutes)
             print(json.dumps({"valid": True, "duration_minutes": workout.duration_minutes, "workout": workout.as_dict()}, indent=1))
     except (ValueError, TypeError) as error:
         print(json.dumps({"valid": False, "error": str(error)}))
