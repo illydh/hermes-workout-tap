@@ -1,0 +1,4246 @@
+{
+ "exercises": [
+  {
+   "equipment": [
+    "mat"
+   ],
+   "group": "core",
+   "id": "3_4_Sit-Up",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "3/4 Sit-Up"
+  },
+  {
+   "equipment": [],
+   "group": "core",
+   "id": "Air_Bike",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Air Bike"
+  },
+  {
+   "equipment": [
+    "dumbbells"
+   ],
+   "group": "arms",
+   "id": "Alternate_Hammer_Curl",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Alternate Hammer Curl"
+  },
+  {
+   "equipment": [],
+   "group": "core",
+   "id": "Alternate_Heel_Touchers",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Alternate Heel Touchers"
+  },
+  {
+   "equipment": [
+    "bench",
+    "dumbbells"
+   ],
+   "group": "arms",
+   "id": "Alternate_Incline_Dumbbell_Curl",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Alternate Incline Dumbbell Curl"
+  },
+  {
+   "equipment": [
+    "cable"
+   ],
+   "group": "shoulders",
+   "id": "Alternating_Cable_Shoulder_Press",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Alternating Cable Shoulder Press"
+  },
+  {
+   "equipment": [
+    "dumbbells"
+   ],
+   "group": "shoulders",
+   "id": "Alternating_Deltoid_Raise",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Alternating Deltoid Raise"
+  },
+  {
+   "equipment": [
+    "kettlebell"
+   ],
+   "group": "chest",
+   "id": "Alternating_Floor_Press",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Alternating Floor Press"
+  },
+  {
+   "equipment": [
+    "kettlebell"
+   ],
+   "group": "shoulders",
+   "id": "Alternating_Kettlebell_Press",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Alternating Kettlebell Press"
+  },
+  {
+   "equipment": [
+    "kettlebell"
+   ],
+   "group": "back",
+   "id": "Alternating_Kettlebell_Row",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Alternating Kettlebell Row"
+  },
+  {
+   "equipment": [
+    "barbell"
+   ],
+   "group": "shoulders",
+   "id": "Anti-Gravity_Press",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Anti-Gravity Press"
+  },
+  {
+   "equipment": [
+    "dumbbells"
+   ],
+   "group": "shoulders",
+   "id": "Arnold_Dumbbell_Press",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Arnold Dumbbell Press"
+  },
+  {
+   "equipment": [
+    "dumbbells"
+   ],
+   "group": "chest",
+   "id": "Around_The_Worlds",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Around The Worlds"
+  },
+  {
+   "equipment": [
+    "bands"
+   ],
+   "group": "shoulders",
+   "id": "Back_Flyes_-_With_Bands",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Back Flyes - With Bands"
+  },
+  {
+   "equipment": [
+    "bands"
+   ],
+   "group": "legs",
+   "id": "Band_Hip_Adductions",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Band Hip Adductions"
+  },
+  {
+   "equipment": [
+    "bands"
+   ],
+   "group": "shoulders",
+   "id": "Band_Pull_Apart",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Band Pull Apart"
+  },
+  {
+   "equipment": [
+    "bands"
+   ],
+   "group": "arms",
+   "id": "Band_Skull_Crusher",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Band Skull Crusher"
+  },
+  {
+   "equipment": [
+    "barbell"
+   ],
+   "group": "core",
+   "id": "Barbell_Ab_Rollout",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Barbell Ab Rollout"
+  },
+  {
+   "equipment": [
+    "barbell",
+    "bench"
+   ],
+   "group": "chest",
+   "id": "Barbell_Bench_Press_-_Medium_Grip",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Barbell Bench Press - Medium Grip"
+  },
+  {
+   "equipment": [
+    "barbell"
+   ],
+   "group": "arms",
+   "id": "Barbell_Curl",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Barbell Curl"
+  },
+  {
+   "equipment": [
+    "barbell",
+    "bench"
+   ],
+   "group": "arms",
+   "id": "Barbell_Curls_Lying_Against_An_Incline",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Barbell Curls Lying Against An Incline"
+  },
+  {
+   "equipment": [
+    "barbell"
+   ],
+   "group": "back",
+   "id": "Barbell_Deadlift",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Barbell Deadlift"
+  },
+  {
+   "equipment": [
+    "barbell",
+    "squat_rack"
+   ],
+   "group": "legs",
+   "id": "Barbell_Full_Squat",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Barbell Full Squat"
+  },
+  {
+   "equipment": [
+    "barbell",
+    "bench"
+   ],
+   "group": "chest",
+   "id": "Barbell_Guillotine_Bench_Press",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Barbell Guillotine Bench Press"
+  },
+  {
+   "equipment": [
+    "barbell",
+    "bench"
+   ],
+   "group": "chest",
+   "id": "Barbell_Incline_Bench_Press_-_Medium_Grip",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Barbell Incline Bench Press - Medium Grip"
+  },
+  {
+   "equipment": [
+    "barbell",
+    "bench"
+   ],
+   "group": "shoulders",
+   "id": "Barbell_Incline_Shoulder_Raise",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Barbell Incline Shoulder Raise"
+  },
+  {
+   "equipment": [
+    "barbell"
+   ],
+   "group": "legs",
+   "id": "Barbell_Lunge",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Barbell Lunge"
+  },
+  {
+   "equipment": [
+    "barbell"
+   ],
+   "group": "shoulders",
+   "id": "Barbell_Rear_Delt_Row",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Barbell Rear Delt Row"
+  },
+  {
+   "equipment": [
+    "barbell",
+    "bench"
+   ],
+   "group": "core",
+   "id": "Barbell_Rollout_from_Bench",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Barbell Rollout from Bench"
+  },
+  {
+   "equipment": [
+    "barbell",
+    "bench"
+   ],
+   "group": "legs",
+   "id": "Barbell_Seated_Calf_Raise",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Barbell Seated Calf Raise"
+  },
+  {
+   "equipment": [
+    "barbell"
+   ],
+   "group": "shoulders",
+   "id": "Barbell_Shoulder_Press",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Barbell Shoulder Press"
+  },
+  {
+   "equipment": [
+    "barbell"
+   ],
+   "group": "back",
+   "id": "Barbell_Shrug",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Barbell Shrug"
+  },
+  {
+   "equipment": [
+    "barbell"
+   ],
+   "group": "back",
+   "id": "Barbell_Shrug_Behind_The_Back",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Barbell Shrug Behind The Back"
+  },
+  {
+   "equipment": [
+    "barbell"
+   ],
+   "group": "core",
+   "id": "Barbell_Side_Bend",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Barbell Side Bend"
+  },
+  {
+   "equipment": [
+    "barbell",
+    "squat_rack"
+   ],
+   "group": "legs",
+   "id": "Barbell_Side_Split_Squat",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Barbell Side Split Squat"
+  },
+  {
+   "equipment": [
+    "barbell",
+    "squat_rack"
+   ],
+   "group": "legs",
+   "id": "Barbell_Squat",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Barbell Squat"
+  },
+  {
+   "equipment": [
+    "barbell"
+   ],
+   "group": "legs",
+   "id": "Barbell_Walking_Lunge",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Barbell Walking Lunge"
+  },
+  {
+   "equipment": [
+    "bands"
+   ],
+   "group": "chest",
+   "id": "Bench_Press_-_With_Bands",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Bench Press - With Bands"
+  },
+  {
+   "equipment": [
+    "barbell"
+   ],
+   "group": "back",
+   "id": "Bent-Arm_Barbell_Pullover",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Bent-Arm Barbell Pullover"
+  },
+  {
+   "equipment": [
+    "dumbbells"
+   ],
+   "group": "chest",
+   "id": "Bent-Arm_Dumbbell_Pullover",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Bent-Arm Dumbbell Pullover"
+  },
+  {
+   "equipment": [],
+   "group": "core",
+   "id": "Bent-Knee_Hip_Raise",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Bent-Knee Hip Raise"
+  },
+  {
+   "equipment": [
+    "barbell"
+   ],
+   "group": "back",
+   "id": "Bent_Over_Barbell_Row",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Bent Over Barbell Row"
+  },
+  {
+   "equipment": [
+    "bench",
+    "dumbbells"
+   ],
+   "group": "shoulders",
+   "id": "Bent_Over_Dumbbell_Rear_Delt_Raise_With_Head_On_Bench",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Bent Over Dumbbell Rear Delt Raise With Head On Bench"
+  },
+  {
+   "equipment": [
+    "cable"
+   ],
+   "group": "shoulders",
+   "id": "Bent_Over_Low-Pulley_Side_Lateral",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Bent Over Low-Pulley Side Lateral"
+  },
+  {
+   "equipment": [
+    "barbell"
+   ],
+   "group": "back",
+   "id": "Bent_Over_One-Arm_Long_Bar_Row",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Bent Over One-Arm Long Bar Row"
+  },
+  {
+   "equipment": [
+    "barbell"
+   ],
+   "group": "back",
+   "id": "Bent_Over_Two-Arm_Long_Bar_Row",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Bent Over Two-Arm Long Bar Row"
+  },
+  {
+   "equipment": [
+    "dumbbells"
+   ],
+   "group": "back",
+   "id": "Bent_Over_Two-Dumbbell_Row",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Bent Over Two-Dumbbell Row"
+  },
+  {
+   "equipment": [
+    "dumbbells"
+   ],
+   "group": "back",
+   "id": "Bent_Over_Two-Dumbbell_Row_With_Palms_In",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Bent Over Two-Dumbbell Row With Palms In"
+  },
+  {
+   "equipment": [],
+   "group": "arms",
+   "id": "Body-Up",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Body-Up"
+  },
+  {
+   "equipment": [],
+   "group": "arms",
+   "id": "Body_Tricep_Press",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Body Tricep Press"
+  },
+  {
+   "equipment": [],
+   "group": "legs",
+   "id": "Bodyweight_Squat",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Bodyweight Squat"
+  },
+  {
+   "equipment": [],
+   "group": "core",
+   "id": "Bottoms_Up",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Bottoms Up"
+  },
+  {
+   "equipment": [
+    "barbell"
+   ],
+   "group": "shoulders",
+   "id": "Bradford_Rocky_Presses",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Bradford/Rocky Presses"
+  },
+  {
+   "equipment": [],
+   "group": "core",
+   "id": "Butt-Ups",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Butt-Ups"
+  },
+  {
+   "equipment": [
+    "mat"
+   ],
+   "group": "legs",
+   "id": "Butt_Lift_Bridge",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Butt Lift (Bridge)"
+  },
+  {
+   "equipment": [
+    "cable"
+   ],
+   "group": "chest",
+   "id": "Cable_Chest_Press",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Cable Chest Press"
+  },
+  {
+   "equipment": [
+    "cable"
+   ],
+   "group": "chest",
+   "id": "Cable_Crossover",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Cable Crossover"
+  },
+  {
+   "equipment": [
+    "cable"
+   ],
+   "group": "core",
+   "id": "Cable_Crunch",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Cable Crunch"
+  },
+  {
+   "equipment": [
+    "cable"
+   ],
+   "group": "legs",
+   "id": "Cable_Deadlifts",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Cable Deadlifts"
+  },
+  {
+   "equipment": [
+    "cable"
+   ],
+   "group": "legs",
+   "id": "Cable_Hip_Adduction",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Cable Hip Adduction"
+  },
+  {
+   "equipment": [
+    "cable"
+   ],
+   "group": "back",
+   "id": "Cable_Incline_Pushdown",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Cable Incline Pushdown"
+  },
+  {
+   "equipment": [
+    "cable"
+   ],
+   "group": "arms",
+   "id": "Cable_Incline_Triceps_Extension",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Cable Incline Triceps Extension"
+  },
+  {
+   "equipment": [
+    "cable"
+   ],
+   "group": "shoulders",
+   "id": "Cable_Internal_Rotation",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Cable Internal Rotation"
+  },
+  {
+   "equipment": [
+    "cable"
+   ],
+   "group": "chest",
+   "id": "Cable_Iron_Cross",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Cable Iron Cross"
+  },
+  {
+   "equipment": [
+    "cable"
+   ],
+   "group": "core",
+   "id": "Cable_Judo_Flip",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Cable Judo Flip"
+  },
+  {
+   "equipment": [
+    "cable"
+   ],
+   "group": "arms",
+   "id": "Cable_Lying_Triceps_Extension",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Cable Lying Triceps Extension"
+  },
+  {
+   "equipment": [
+    "cable"
+   ],
+   "group": "arms",
+   "id": "Cable_One_Arm_Tricep_Extension",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Cable One Arm Tricep Extension"
+  },
+  {
+   "equipment": [
+    "cable"
+   ],
+   "group": "arms",
+   "id": "Cable_Preacher_Curl",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Cable Preacher Curl"
+  },
+  {
+   "equipment": [
+    "cable"
+   ],
+   "group": "shoulders",
+   "id": "Cable_Rear_Delt_Fly",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Cable Rear Delt Fly"
+  },
+  {
+   "equipment": [
+    "cable"
+   ],
+   "group": "core",
+   "id": "Cable_Reverse_Crunch",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Cable Reverse Crunch"
+  },
+  {
+   "equipment": [
+    "cable"
+   ],
+   "group": "core",
+   "id": "Cable_Russian_Twists",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Cable Russian Twists"
+  },
+  {
+   "equipment": [
+    "cable"
+   ],
+   "group": "core",
+   "id": "Cable_Seated_Crunch",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Cable Seated Crunch"
+  },
+  {
+   "equipment": [
+    "cable"
+   ],
+   "group": "shoulders",
+   "id": "Cable_Seated_Lateral_Raise",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Cable Seated Lateral Raise"
+  },
+  {
+   "equipment": [
+    "cable"
+   ],
+   "group": "shoulders",
+   "id": "Cable_Shoulder_Press",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Cable Shoulder Press"
+  },
+  {
+   "equipment": [
+    "cable"
+   ],
+   "group": "back",
+   "id": "Cable_Shrugs",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Cable Shrugs"
+  },
+  {
+   "equipment": [
+    "cable"
+   ],
+   "group": "arms",
+   "id": "Cable_Wrist_Curl",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Cable Wrist Curl"
+  },
+  {
+   "equipment": [
+    "dumbbells"
+   ],
+   "group": "legs",
+   "id": "Calf_Raise_On_A_Dumbbell",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Calf Raise On A Dumbbell"
+  },
+  {
+   "equipment": [
+    "bands"
+   ],
+   "group": "legs",
+   "id": "Calf_Raises_-_With_Bands",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Calf Raises - With Bands"
+  },
+  {
+   "equipment": [
+    "barbell"
+   ],
+   "group": "shoulders",
+   "id": "Car_Drivers",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Car Drivers"
+  },
+  {
+   "equipment": [],
+   "group": "chest",
+   "id": "Clock_Push-Up",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Clock Push-Up"
+  },
+  {
+   "equipment": [
+    "barbell",
+    "bench"
+   ],
+   "group": "arms",
+   "id": "Close-Grip_Barbell_Bench_Press",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Close-Grip Barbell Bench Press"
+  },
+  {
+   "equipment": [
+    "dumbbells"
+   ],
+   "group": "arms",
+   "id": "Close-Grip_Dumbbell_Press",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Close-Grip Dumbbell Press"
+  },
+  {
+   "equipment": [
+    "barbell"
+   ],
+   "group": "arms",
+   "id": "Close-Grip_EZ_Bar_Curl",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Close-Grip EZ Bar Curl"
+  },
+  {
+   "equipment": [
+    "cable"
+   ],
+   "group": "back",
+   "id": "Close-Grip_Front_Lat_Pulldown",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Close-Grip Front Lat Pulldown"
+  },
+  {
+   "equipment": [],
+   "group": "arms",
+   "id": "Close-Grip_Push-Up_off_of_a_Dumbbell",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Close-Grip Push-Up off of a Dumbbell"
+  },
+  {
+   "equipment": [
+    "barbell"
+   ],
+   "group": "arms",
+   "id": "Close-Grip_Standing_Barbell_Curl",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Close-Grip Standing Barbell Curl"
+  },
+  {
+   "equipment": [],
+   "group": "core",
+   "id": "Cocoons",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Cocoons"
+  },
+  {
+   "equipment": [
+    "dumbbells"
+   ],
+   "group": "arms",
+   "id": "Concentration_Curls",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Concentration Curls"
+  },
+  {
+   "equipment": [
+    "mat"
+   ],
+   "group": "core",
+   "id": "Cross-Body_Crunch",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Cross-Body Crunch"
+  },
+  {
+   "equipment": [
+    "dumbbells"
+   ],
+   "group": "arms",
+   "id": "Cross_Body_Hammer_Curl",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Cross Body Hammer Curl"
+  },
+  {
+   "equipment": [
+    "bands"
+   ],
+   "group": "chest",
+   "id": "Cross_Over_-_With_Bands",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Cross Over - With Bands"
+  },
+  {
+   "equipment": [
+    "mat"
+   ],
+   "group": "core",
+   "id": "Crunch_-_Hands_Overhead",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Crunch - Hands Overhead"
+  },
+  {
+   "equipment": [
+    "mat"
+   ],
+   "group": "core",
+   "id": "Crunches",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Crunches"
+  },
+  {
+   "equipment": [
+    "dumbbells"
+   ],
+   "group": "shoulders",
+   "id": "Cuban_Press",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Cuban Press"
+  },
+  {
+   "equipment": [
+    "mat"
+   ],
+   "group": "core",
+   "id": "Dead_Bug",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Dead Bug"
+  },
+  {
+   "equipment": [
+    "barbell",
+    "bench"
+   ],
+   "group": "chest",
+   "id": "Decline_Barbell_Bench_Press",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Decline Barbell Bench Press"
+  },
+  {
+   "equipment": [
+    "barbell",
+    "bench"
+   ],
+   "group": "arms",
+   "id": "Decline_Close-Grip_Bench_To_Skull_Crusher",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Decline Close-Grip Bench To Skull Crusher"
+  },
+  {
+   "equipment": [
+    "mat"
+   ],
+   "group": "core",
+   "id": "Decline_Crunch",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Decline Crunch"
+  },
+  {
+   "equipment": [
+    "bench",
+    "dumbbells"
+   ],
+   "group": "chest",
+   "id": "Decline_Dumbbell_Bench_Press",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Decline Dumbbell Bench Press"
+  },
+  {
+   "equipment": [
+    "bench",
+    "dumbbells"
+   ],
+   "group": "chest",
+   "id": "Decline_Dumbbell_Flyes",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Decline Dumbbell Flyes"
+  },
+  {
+   "equipment": [
+    "bench",
+    "dumbbells"
+   ],
+   "group": "arms",
+   "id": "Decline_Dumbbell_Triceps_Extension",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Decline Dumbbell Triceps Extension"
+  },
+  {
+   "equipment": [
+    "barbell",
+    "bench"
+   ],
+   "group": "arms",
+   "id": "Decline_EZ_Bar_Triceps_Extension",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Decline EZ Bar Triceps Extension"
+  },
+  {
+   "equipment": [
+    "mat"
+   ],
+   "group": "core",
+   "id": "Decline_Oblique_Crunch",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Decline Oblique Crunch"
+  },
+  {
+   "equipment": [
+    "mat"
+   ],
+   "group": "core",
+   "id": "Decline_Reverse_Crunch",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Decline Reverse Crunch"
+  },
+  {
+   "equipment": [
+    "kettlebell"
+   ],
+   "group": "shoulders",
+   "id": "Double_Kettlebell_Push_Press",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Double Kettlebell Push Press"
+  },
+  {
+   "equipment": [
+    "barbell"
+   ],
+   "group": "arms",
+   "id": "Drag_Curl",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Drag Curl"
+  },
+  {
+   "equipment": [
+    "dumbbells"
+   ],
+   "group": "arms",
+   "id": "Dumbbell_Alternate_Bicep_Curl",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Dumbbell Alternate Bicep Curl"
+  },
+  {
+   "equipment": [
+    "bench",
+    "dumbbells"
+   ],
+   "group": "chest",
+   "id": "Dumbbell_Bench_Press",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Dumbbell Bench Press"
+  },
+  {
+   "equipment": [
+    "bench",
+    "dumbbells"
+   ],
+   "group": "chest",
+   "id": "Dumbbell_Bench_Press_with_Neutral_Grip",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Dumbbell Bench Press with Neutral Grip"
+  },
+  {
+   "equipment": [
+    "dumbbells"
+   ],
+   "group": "arms",
+   "id": "Dumbbell_Bicep_Curl",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Dumbbell Bicep Curl"
+  },
+  {
+   "equipment": [
+    "dumbbells"
+   ],
+   "group": "chest",
+   "id": "Dumbbell_Flyes",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Dumbbell Flyes"
+  },
+  {
+   "equipment": [
+    "bench",
+    "dumbbells"
+   ],
+   "group": "back",
+   "id": "Dumbbell_Incline_Row",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Dumbbell Incline Row"
+  },
+  {
+   "equipment": [
+    "bench",
+    "dumbbells"
+   ],
+   "group": "shoulders",
+   "id": "Dumbbell_Incline_Shoulder_Raise",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Dumbbell Incline Shoulder Raise"
+  },
+  {
+   "equipment": [
+    "dumbbells"
+   ],
+   "group": "legs",
+   "id": "Dumbbell_Lunges",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Dumbbell Lunges"
+  },
+  {
+   "equipment": [
+    "bench",
+    "dumbbells"
+   ],
+   "group": "shoulders",
+   "id": "Dumbbell_Lying_One-Arm_Rear_Lateral_Raise",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Dumbbell Lying One-Arm Rear Lateral Raise"
+  },
+  {
+   "equipment": [
+    "bench",
+    "dumbbells"
+   ],
+   "group": "arms",
+   "id": "Dumbbell_Lying_Pronation",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Dumbbell Lying Pronation"
+  },
+  {
+   "equipment": [
+    "bench",
+    "dumbbells"
+   ],
+   "group": "shoulders",
+   "id": "Dumbbell_Lying_Rear_Lateral_Raise",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Dumbbell Lying Rear Lateral Raise"
+  },
+  {
+   "equipment": [
+    "bench",
+    "dumbbells"
+   ],
+   "group": "arms",
+   "id": "Dumbbell_Lying_Supination",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Dumbbell Lying Supination"
+  },
+  {
+   "equipment": [
+    "dumbbells"
+   ],
+   "group": "shoulders",
+   "id": "Dumbbell_One-Arm_Shoulder_Press",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Dumbbell One-Arm Shoulder Press"
+  },
+  {
+   "equipment": [
+    "dumbbells"
+   ],
+   "group": "arms",
+   "id": "Dumbbell_One-Arm_Triceps_Extension",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Dumbbell One-Arm Triceps Extension"
+  },
+  {
+   "equipment": [
+    "dumbbells"
+   ],
+   "group": "shoulders",
+   "id": "Dumbbell_One-Arm_Upright_Row",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Dumbbell One-Arm Upright Row"
+  },
+  {
+   "equipment": [
+    "bench",
+    "dumbbells"
+   ],
+   "group": "arms",
+   "id": "Dumbbell_Prone_Incline_Curl",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Dumbbell Prone Incline Curl"
+  },
+  {
+   "equipment": [
+    "dumbbells"
+   ],
+   "group": "shoulders",
+   "id": "Dumbbell_Raise",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Dumbbell Raise"
+  },
+  {
+   "equipment": [
+    "dumbbells"
+   ],
+   "group": "legs",
+   "id": "Dumbbell_Rear_Lunge",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Dumbbell Rear Lunge"
+  },
+  {
+   "equipment": [
+    "dumbbells"
+   ],
+   "group": "shoulders",
+   "id": "Dumbbell_Scaption",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Dumbbell Scaption"
+  },
+  {
+   "equipment": [
+    "bench",
+    "dumbbells"
+   ],
+   "group": "legs",
+   "id": "Dumbbell_Seated_One-Leg_Calf_Raise",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Dumbbell Seated One-Leg Calf Raise"
+  },
+  {
+   "equipment": [
+    "dumbbells"
+   ],
+   "group": "shoulders",
+   "id": "Dumbbell_Shoulder_Press",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Dumbbell Shoulder Press"
+  },
+  {
+   "equipment": [
+    "dumbbells"
+   ],
+   "group": "back",
+   "id": "Dumbbell_Shrug",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Dumbbell Shrug"
+  },
+  {
+   "equipment": [
+    "dumbbells"
+   ],
+   "group": "core",
+   "id": "Dumbbell_Side_Bend",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Dumbbell Side Bend"
+  },
+  {
+   "equipment": [
+    "dumbbells"
+   ],
+   "group": "legs",
+   "id": "Dumbbell_Squat",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Dumbbell Squat"
+  },
+  {
+   "equipment": [
+    "bench",
+    "dumbbells"
+   ],
+   "group": "legs",
+   "id": "Dumbbell_Squat_To_A_Bench",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Dumbbell Squat To A Bench"
+  },
+  {
+   "equipment": [
+    "dumbbells"
+   ],
+   "group": "arms",
+   "id": "Dumbbell_Tricep_Extension_-Pronated_Grip",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Dumbbell Tricep Extension -Pronated Grip"
+  },
+  {
+   "equipment": [],
+   "group": "core",
+   "id": "Elbow_to_Knee",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Elbow to Knee"
+  },
+  {
+   "equipment": [
+    "barbell"
+   ],
+   "group": "legs",
+   "id": "Elevated_Back_Lunge",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Elevated Back Lunge"
+  },
+  {
+   "equipment": [
+    "cable"
+   ],
+   "group": "back",
+   "id": "Elevated_Cable_Rows",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Elevated Cable Rows"
+  },
+  {
+   "equipment": [
+    "kettlebell"
+   ],
+   "group": "chest",
+   "id": "Extended_Range_One-Arm_Kettlebell_Floor_Press",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Extended Range One-Arm Kettlebell Floor Press"
+  },
+  {
+   "equipment": [
+    "dumbbells"
+   ],
+   "group": "shoulders",
+   "id": "External_Rotation",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "External Rotation"
+  },
+  {
+   "equipment": [
+    "bands"
+   ],
+   "group": "shoulders",
+   "id": "External_Rotation_with_Band",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "External Rotation with Band"
+  },
+  {
+   "equipment": [
+    "cable"
+   ],
+   "group": "shoulders",
+   "id": "External_Rotation_with_Cable",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "External Rotation with Cable"
+  },
+  {
+   "equipment": [
+    "cable"
+   ],
+   "group": "shoulders",
+   "id": "Face_Pull",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Face Pull"
+  },
+  {
+   "equipment": [
+    "barbell"
+   ],
+   "group": "arms",
+   "id": "Finger_Curls",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Finger Curls"
+  },
+  {
+   "equipment": [
+    "cable"
+   ],
+   "group": "chest",
+   "id": "Flat_Bench_Cable_Flyes",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Flat Bench Cable Flyes"
+  },
+  {
+   "equipment": [],
+   "group": "core",
+   "id": "Flat_Bench_Leg_Pull-In",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Flat Bench Leg Pull-In"
+  },
+  {
+   "equipment": [
+    "mat"
+   ],
+   "group": "core",
+   "id": "Flat_Bench_Lying_Leg_Raise",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Flat Bench Lying Leg Raise"
+  },
+  {
+   "equipment": [
+    "bench",
+    "dumbbells"
+   ],
+   "group": "arms",
+   "id": "Flexor_Incline_Dumbbell_Curls",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Flexor Incline Dumbbell Curls"
+  },
+  {
+   "equipment": [
+    "mat"
+   ],
+   "group": "legs",
+   "id": "Flutter_Kicks",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Flutter Kicks"
+  },
+  {
+   "equipment": [
+    "mat"
+   ],
+   "group": "core",
+   "id": "Frog_Sit-Ups",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Frog Sit-Ups"
+  },
+  {
+   "equipment": [
+    "cable"
+   ],
+   "group": "shoulders",
+   "id": "Front_Cable_Raise",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Front Cable Raise"
+  },
+  {
+   "equipment": [
+    "dumbbells"
+   ],
+   "group": "shoulders",
+   "id": "Front_Dumbbell_Raise",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Front Dumbbell Raise"
+  },
+  {
+   "equipment": [
+    "bench",
+    "dumbbells"
+   ],
+   "group": "shoulders",
+   "id": "Front_Incline_Dumbbell_Raise",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Front Incline Dumbbell Raise"
+  },
+  {
+   "equipment": [
+    "barbell"
+   ],
+   "group": "chest",
+   "id": "Front_Raise_And_Pullover",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Front Raise And Pullover"
+  },
+  {
+   "equipment": [
+    "kettlebell"
+   ],
+   "group": "legs",
+   "id": "Front_Squats_With_Two_Kettlebells",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Front Squats With Two Kettlebells"
+  },
+  {
+   "equipment": [
+    "dumbbells"
+   ],
+   "group": "shoulders",
+   "id": "Front_Two-Dumbbell_Raise",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Front Two-Dumbbell Raise"
+  },
+  {
+   "equipment": [
+    "cable"
+   ],
+   "group": "back",
+   "id": "Full_Range-Of-Motion_Lat_Pulldown",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Full Range-Of-Motion Lat Pulldown"
+  },
+  {
+   "equipment": [],
+   "group": "legs",
+   "id": "Glute_Kickback",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Glute Kickback"
+  },
+  {
+   "equipment": [
+    "kettlebell"
+   ],
+   "group": "legs",
+   "id": "Goblet_Squat",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Goblet Squat"
+  },
+  {
+   "equipment": [
+    "mat"
+   ],
+   "group": "core",
+   "id": "Gorilla_Chin_Crunch",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Gorilla Chin/Crunch"
+  },
+  {
+   "equipment": [
+    "dumbbells"
+   ],
+   "group": "arms",
+   "id": "Hammer_Curls",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Hammer Curls"
+  },
+  {
+   "equipment": [
+    "bench",
+    "dumbbells"
+   ],
+   "group": "chest",
+   "id": "Hammer_Grip_Incline_DB_Bench_Press",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Hammer Grip Incline DB Bench Press"
+  },
+  {
+   "equipment": [
+    "cable"
+   ],
+   "group": "arms",
+   "id": "High_Cable_Curls",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "High Cable Curls"
+  },
+  {
+   "equipment": [
+    "bands"
+   ],
+   "group": "legs",
+   "id": "Hip_Extension_with_Bands",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Hip Extension with Bands"
+  },
+  {
+   "equipment": [
+    "bands"
+   ],
+   "group": "legs",
+   "id": "Hip_Flexion_with_Band",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Hip Flexion with Band"
+  },
+  {
+   "equipment": [],
+   "group": "back",
+   "id": "Hyperextensions_With_No_Hyperextension_Bench",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Hyperextensions With No Hyperextension Bench"
+  },
+  {
+   "equipment": [
+    "barbell",
+    "bench"
+   ],
+   "group": "arms",
+   "id": "Incline_Barbell_Triceps_Extension",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Incline Barbell Triceps Extension"
+  },
+  {
+   "equipment": [
+    "barbell",
+    "bench"
+   ],
+   "group": "back",
+   "id": "Incline_Bench_Pull",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Incline Bench Pull"
+  },
+  {
+   "equipment": [
+    "cable"
+   ],
+   "group": "chest",
+   "id": "Incline_Cable_Chest_Press",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Incline Cable Chest Press"
+  },
+  {
+   "equipment": [
+    "cable"
+   ],
+   "group": "chest",
+   "id": "Incline_Cable_Flye",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Incline Cable Flye"
+  },
+  {
+   "equipment": [
+    "bench",
+    "dumbbells"
+   ],
+   "group": "chest",
+   "id": "Incline_Dumbbell_Bench_With_Palms_Facing_In",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Incline Dumbbell Bench With Palms Facing In"
+  },
+  {
+   "equipment": [
+    "bench",
+    "dumbbells"
+   ],
+   "group": "arms",
+   "id": "Incline_Dumbbell_Curl",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Incline Dumbbell Curl"
+  },
+  {
+   "equipment": [
+    "bench",
+    "dumbbells"
+   ],
+   "group": "chest",
+   "id": "Incline_Dumbbell_Flyes",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Incline Dumbbell Flyes"
+  },
+  {
+   "equipment": [
+    "bench",
+    "dumbbells"
+   ],
+   "group": "chest",
+   "id": "Incline_Dumbbell_Flyes_-_With_A_Twist",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Incline Dumbbell Flyes - With A Twist"
+  },
+  {
+   "equipment": [
+    "bench",
+    "dumbbells"
+   ],
+   "group": "chest",
+   "id": "Incline_Dumbbell_Press",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Incline Dumbbell Press"
+  },
+  {
+   "equipment": [
+    "bench",
+    "dumbbells"
+   ],
+   "group": "arms",
+   "id": "Incline_Hammer_Curls",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Incline Hammer Curls"
+  },
+  {
+   "equipment": [
+    "bench",
+    "dumbbells"
+   ],
+   "group": "arms",
+   "id": "Incline_Inner_Biceps_Curl",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Incline Inner Biceps Curl"
+  },
+  {
+   "equipment": [],
+   "group": "chest",
+   "id": "Incline_Push-Up",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Incline Push-Up"
+  },
+  {
+   "equipment": [],
+   "group": "arms",
+   "id": "Incline_Push-Up_Close-Grip",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Incline Push-Up Close-Grip"
+  },
+  {
+   "equipment": [],
+   "group": "chest",
+   "id": "Incline_Push-Up_Medium",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Incline Push-Up Medium"
+  },
+  {
+   "equipment": [],
+   "group": "chest",
+   "id": "Incline_Push-Up_Reverse_Grip",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Incline Push-Up Reverse Grip"
+  },
+  {
+   "equipment": [],
+   "group": "chest",
+   "id": "Incline_Push-Up_Wide",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Incline Push-Up Wide"
+  },
+  {
+   "equipment": [
+    "bands"
+   ],
+   "group": "shoulders",
+   "id": "Internal_Rotation_with_Band",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Internal Rotation with Band"
+  },
+  {
+   "equipment": [
+    "dumbbells"
+   ],
+   "group": "shoulders",
+   "id": "Iron_Cross",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Iron Cross"
+  },
+  {
+   "equipment": [],
+   "group": "chest",
+   "id": "Isometric_Wipers",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Isometric Wipers"
+  },
+  {
+   "equipment": [
+    "barbell"
+   ],
+   "group": "arms",
+   "id": "JM_Press",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "JM Press"
+  },
+  {
+   "equipment": [
+    "mat"
+   ],
+   "group": "core",
+   "id": "Jackknife_Sit-Up",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Jackknife Sit-Up"
+  },
+  {
+   "equipment": [
+    "mat"
+   ],
+   "group": "core",
+   "id": "Janda_Sit-Up",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Janda Sit-Up"
+  },
+  {
+   "equipment": [
+    "kettlebell"
+   ],
+   "group": "shoulders",
+   "id": "Kettlebell_Arnold_Press",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Kettlebell Arnold Press"
+  },
+  {
+   "equipment": [
+    "kettlebell"
+   ],
+   "group": "core",
+   "id": "Kettlebell_Figure_8",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Kettlebell Figure 8"
+  },
+  {
+   "equipment": [
+    "kettlebell"
+   ],
+   "group": "shoulders",
+   "id": "Kettlebell_Halo",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Kettlebell Halo"
+  },
+  {
+   "equipment": [
+    "kettlebell"
+   ],
+   "group": "shoulders",
+   "id": "Kettlebell_Halo_With_Overhead_Extension",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Kettlebell Halo with Overhead Extension"
+  },
+  {
+   "equipment": [
+    "kettlebell"
+   ],
+   "group": "legs",
+   "id": "Kettlebell_One-Legged_Deadlift",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Kettlebell One-Legged Deadlift"
+  },
+  {
+   "equipment": [
+    "kettlebell"
+   ],
+   "group": "arms",
+   "id": "Kettlebell_Overhead_Triceps_Extension",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Kettlebell Overhead Triceps Extension"
+  },
+  {
+   "equipment": [
+    "kettlebell"
+   ],
+   "group": "core",
+   "id": "Kettlebell_Pass_Between_The_Legs",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Kettlebell Pass Between The Legs"
+  },
+  {
+   "equipment": [
+    "kettlebell"
+   ],
+   "group": "shoulders",
+   "id": "Kettlebell_Pirate_Ships",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Kettlebell Pirate Ships"
+  },
+  {
+   "equipment": [
+    "bench",
+    "kettlebell"
+   ],
+   "group": "shoulders",
+   "id": "Kettlebell_Seated_Press",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Kettlebell Seated Press"
+  },
+  {
+   "equipment": [
+    "kettlebell"
+   ],
+   "group": "shoulders",
+   "id": "Kettlebell_Seesaw_Press",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Kettlebell Seesaw Press"
+  },
+  {
+   "equipment": [
+    "kettlebell"
+   ],
+   "group": "back",
+   "id": "Kettlebell_Sumo_High_Pull",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Kettlebell Sumo High Pull"
+  },
+  {
+   "equipment": [
+    "kettlebell"
+   ],
+   "group": "shoulders",
+   "id": "Kettlebell_Thruster",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Kettlebell Thruster"
+  },
+  {
+   "equipment": [
+    "cable"
+   ],
+   "group": "core",
+   "id": "Kneeling_Cable_Crunch_With_Alternating_Oblique_Twists",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Kneeling Cable Crunch With Alternating Oblique Twists"
+  },
+  {
+   "equipment": [
+    "cable"
+   ],
+   "group": "arms",
+   "id": "Kneeling_Cable_Triceps_Extension",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Kneeling Cable Triceps Extension"
+  },
+  {
+   "equipment": [
+    "cable"
+   ],
+   "group": "back",
+   "id": "Kneeling_High_Pulley_Row",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Kneeling High Pulley Row"
+  },
+  {
+   "equipment": [
+    "cable"
+   ],
+   "group": "back",
+   "id": "Kneeling_Single-Arm_High_Pulley_Row",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Kneeling Single-Arm High Pulley Row"
+  },
+  {
+   "equipment": [
+    "barbell"
+   ],
+   "group": "core",
+   "id": "Landmine_180s",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Landmine 180's"
+  },
+  {
+   "equipment": [
+    "barbell"
+   ],
+   "group": "shoulders",
+   "id": "Landmine_Linear_Jammer",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Landmine Linear Jammer"
+  },
+  {
+   "equipment": [
+    "bands"
+   ],
+   "group": "shoulders",
+   "id": "Lateral_Raise_-_With_Bands",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Lateral Raise - With Bands"
+  },
+  {
+   "equipment": [
+    "kettlebell"
+   ],
+   "group": "chest",
+   "id": "Leg-Over_Floor_Press",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Leg-Over Floor Press"
+  },
+  {
+   "equipment": [],
+   "group": "legs",
+   "id": "Leg_Lift",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Leg Lift"
+  },
+  {
+   "equipment": [],
+   "group": "core",
+   "id": "Leg_Pull-In",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Leg Pull-In"
+  },
+  {
+   "equipment": [
+    "cable"
+   ],
+   "group": "chest",
+   "id": "Low_Cable_Crossover",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Low Cable Crossover"
+  },
+  {
+   "equipment": [
+    "cable"
+   ],
+   "group": "arms",
+   "id": "Low_Cable_Triceps_Extension",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Low Cable Triceps Extension"
+  },
+  {
+   "equipment": [
+    "kettlebell"
+   ],
+   "group": "legs",
+   "id": "Lunge_Pass_Through",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Lunge Pass Through"
+  },
+  {
+   "equipment": [
+    "cable"
+   ],
+   "group": "arms",
+   "id": "Lying_Cable_Curl",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Lying Cable Curl"
+  },
+  {
+   "equipment": [
+    "barbell",
+    "bench"
+   ],
+   "group": "back",
+   "id": "Lying_Cambered_Barbell_Row",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Lying Cambered Barbell Row"
+  },
+  {
+   "equipment": [
+    "cable"
+   ],
+   "group": "arms",
+   "id": "Lying_Close-Grip_Bar_Curl_On_High_Pulley",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Lying Close-Grip Bar Curl On High Pulley"
+  },
+  {
+   "equipment": [
+    "barbell",
+    "bench"
+   ],
+   "group": "arms",
+   "id": "Lying_Close-Grip_Barbell_Triceps_Extension_Behind_The_Head",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Lying Close-Grip Barbell Triceps Extension Behind The Head"
+  },
+  {
+   "equipment": [
+    "bench",
+    "dumbbells"
+   ],
+   "group": "arms",
+   "id": "Lying_Dumbbell_Tricep_Extension",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Lying Dumbbell Tricep Extension"
+  },
+  {
+   "equipment": [
+    "barbell",
+    "bench"
+   ],
+   "group": "arms",
+   "id": "Lying_High_Bench_Barbell_Curl",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Lying High Bench Barbell Curl"
+  },
+  {
+   "equipment": [
+    "bench",
+    "dumbbells"
+   ],
+   "group": "shoulders",
+   "id": "Lying_One-Arm_Lateral_Raise",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Lying One-Arm Lateral Raise"
+  },
+  {
+   "equipment": [
+    "bench",
+    "dumbbells"
+   ],
+   "group": "shoulders",
+   "id": "Lying_Rear_Delt_Raise",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Lying Rear Delt Raise"
+  },
+  {
+   "equipment": [
+    "bench",
+    "dumbbells"
+   ],
+   "group": "arms",
+   "id": "Lying_Supine_Dumbbell_Curl",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Lying Supine Dumbbell Curl"
+  },
+  {
+   "equipment": [
+    "dumbbells"
+   ],
+   "group": "back",
+   "id": "Middle_Back_Shrug",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Middle Back Shrug"
+  },
+  {
+   "equipment": [
+    "bands"
+   ],
+   "group": "legs",
+   "id": "Monster_Walk",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Monster Walk"
+  },
+  {
+   "equipment": [
+    "barbell",
+    "squat_rack"
+   ],
+   "group": "legs",
+   "id": "Narrow_Stance_Squats",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Narrow Stance Squats"
+  },
+  {
+   "equipment": [],
+   "group": "legs",
+   "id": "Natural_Glute_Ham_Raise",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Natural Glute Ham Raise"
+  },
+  {
+   "equipment": [
+    "mat"
+   ],
+   "group": "core",
+   "id": "Oblique_Crunches",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Oblique Crunches"
+  },
+  {
+   "equipment": [
+    "mat"
+   ],
+   "group": "core",
+   "id": "Oblique_Crunches_-_On_The_Floor",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Oblique Crunches - On The Floor"
+  },
+  {
+   "equipment": [
+    "dumbbells"
+   ],
+   "group": "back",
+   "id": "One-Arm_Dumbbell_Row",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "One-Arm Dumbbell Row"
+  },
+  {
+   "equipment": [
+    "bench",
+    "dumbbells"
+   ],
+   "group": "chest",
+   "id": "One-Arm_Flat_Bench_Dumbbell_Flye",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "One-Arm Flat Bench Dumbbell Flye"
+  },
+  {
+   "equipment": [
+    "cable"
+   ],
+   "group": "core",
+   "id": "One-Arm_High-Pulley_Cable_Side_Bends",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "One-Arm High-Pulley Cable Side Bends"
+  },
+  {
+   "equipment": [
+    "bench",
+    "dumbbells"
+   ],
+   "group": "shoulders",
+   "id": "One-Arm_Incline_Lateral_Raise",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "One-Arm Incline Lateral Raise"
+  },
+  {
+   "equipment": [
+    "kettlebell"
+   ],
+   "group": "chest",
+   "id": "One-Arm_Kettlebell_Floor_Press",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "One-Arm Kettlebell Floor Press"
+  },
+  {
+   "equipment": [
+    "kettlebell"
+   ],
+   "group": "shoulders",
+   "id": "One-Arm_Kettlebell_Military_Press_To_The_Side",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "One-Arm Kettlebell Military Press To The Side"
+  },
+  {
+   "equipment": [
+    "kettlebell"
+   ],
+   "group": "shoulders",
+   "id": "One-Arm_Kettlebell_Para_Press",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "One-Arm Kettlebell Para Press"
+  },
+  {
+   "equipment": [
+    "kettlebell"
+   ],
+   "group": "shoulders",
+   "id": "One-Arm_Kettlebell_Push_Press",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "One-Arm Kettlebell Push Press"
+  },
+  {
+   "equipment": [
+    "kettlebell"
+   ],
+   "group": "back",
+   "id": "One-Arm_Kettlebell_Row",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "One-Arm Kettlebell Row"
+  },
+  {
+   "equipment": [
+    "barbell"
+   ],
+   "group": "back",
+   "id": "One-Arm_Long_Bar_Row",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "One-Arm Long Bar Row"
+  },
+  {
+   "equipment": [
+    "dumbbells"
+   ],
+   "group": "shoulders",
+   "id": "One-Arm_Side_Laterals",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "One-Arm Side Laterals"
+  },
+  {
+   "equipment": [
+    "cable"
+   ],
+   "group": "legs",
+   "id": "One-Legged_Cable_Kickback",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "One-Legged Cable Kickback"
+  },
+  {
+   "equipment": [
+    "bench",
+    "dumbbells"
+   ],
+   "group": "chest",
+   "id": "One_Arm_Dumbbell_Bench_Press",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "One Arm Dumbbell Bench Press"
+  },
+  {
+   "equipment": [
+    "bench",
+    "dumbbells"
+   ],
+   "group": "arms",
+   "id": "One_Arm_Dumbbell_Preacher_Curl",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "One Arm Dumbbell Preacher Curl"
+  },
+  {
+   "equipment": [
+    "barbell"
+   ],
+   "group": "arms",
+   "id": "One_Arm_Floor_Press",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "One Arm Floor Press"
+  },
+  {
+   "equipment": [
+    "cable"
+   ],
+   "group": "back",
+   "id": "One_Arm_Lat_Pulldown",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "One Arm Lat Pulldown"
+  },
+  {
+   "equipment": [
+    "dumbbells"
+   ],
+   "group": "arms",
+   "id": "One_Arm_Pronated_Dumbbell_Triceps_Extension",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "One Arm Pronated Dumbbell Triceps Extension"
+  },
+  {
+   "equipment": [
+    "dumbbells"
+   ],
+   "group": "arms",
+   "id": "One_Arm_Supinated_Dumbbell_Triceps_Extension",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "One Arm Supinated Dumbbell Triceps Extension"
+  },
+  {
+   "equipment": [
+    "cable"
+   ],
+   "group": "arms",
+   "id": "Overhead_Cable_Curl",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Overhead Cable Curl"
+  },
+  {
+   "equipment": [
+    "cable"
+   ],
+   "group": "core",
+   "id": "Pallof_Press",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Pallof Press"
+  },
+  {
+   "equipment": [
+    "cable"
+   ],
+   "group": "core",
+   "id": "Pallof_Press_With_Rotation",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Pallof Press With Rotation"
+  },
+  {
+   "equipment": [
+    "bench",
+    "dumbbells"
+   ],
+   "group": "arms",
+   "id": "Palms-Down_Dumbbell_Wrist_Curl_Over_A_Bench",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Palms-Down Dumbbell Wrist Curl Over A Bench"
+  },
+  {
+   "equipment": [
+    "barbell",
+    "bench"
+   ],
+   "group": "arms",
+   "id": "Palms-Down_Wrist_Curl_Over_A_Bench",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Palms-Down Wrist Curl Over A Bench"
+  },
+  {
+   "equipment": [
+    "barbell",
+    "bench"
+   ],
+   "group": "arms",
+   "id": "Palms-Up_Barbell_Wrist_Curl_Over_A_Bench",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Palms-Up Barbell Wrist Curl Over A Bench"
+  },
+  {
+   "equipment": [
+    "bench",
+    "dumbbells"
+   ],
+   "group": "arms",
+   "id": "Palms-Up_Dumbbell_Wrist_Curl_Over_A_Bench",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Palms-Up Dumbbell Wrist Curl Over A Bench"
+  },
+  {
+   "equipment": [
+    "mat"
+   ],
+   "group": "core",
+   "id": "Plank",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "seconds",
+   "name": "Plank"
+  },
+  {
+   "equipment": [
+    "dumbbells"
+   ],
+   "group": "legs",
+   "id": "Plie_Dumbbell_Squat",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Plie Dumbbell Squat"
+  },
+  {
+   "equipment": [
+    "barbell",
+    "bench"
+   ],
+   "group": "arms",
+   "id": "Preacher_Curl",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Preacher Curl"
+  },
+  {
+   "equipment": [
+    "bench",
+    "dumbbells"
+   ],
+   "group": "arms",
+   "id": "Preacher_Hammer_Dumbbell_Curl",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Preacher Hammer Dumbbell Curl"
+  },
+  {
+   "equipment": [
+    "cable"
+   ],
+   "group": "legs",
+   "id": "Pull_Through",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Pull Through"
+  },
+  {
+   "equipment": [],
+   "group": "chest",
+   "id": "Push-Up_Wide",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Push-Up Wide"
+  },
+  {
+   "equipment": [],
+   "group": "arms",
+   "id": "Push-Ups_-_Close_Triceps_Position",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Push-Ups - Close Triceps Position"
+  },
+  {
+   "equipment": [],
+   "group": "chest",
+   "id": "Push-Ups_With_Feet_Elevated",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Push-Ups With Feet Elevated"
+  },
+  {
+   "equipment": [
+    "mat"
+   ],
+   "group": "chest",
+   "id": "Push_Up_to_Side_Plank",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Push Up to Side Plank"
+  },
+  {
+   "equipment": [],
+   "group": "chest",
+   "id": "Pushups",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Pushups"
+  },
+  {
+   "equipment": [],
+   "group": "chest",
+   "id": "Pushups_Close_and_Wide_Hand_Positions",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Pushups (Close and Wide Hand Positions)"
+  },
+  {
+   "equipment": [
+    "barbell"
+   ],
+   "group": "arms",
+   "id": "Reverse_Barbell_Curl",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Reverse Barbell Curl"
+  },
+  {
+   "equipment": [
+    "cable"
+   ],
+   "group": "arms",
+   "id": "Reverse_Cable_Curl",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Reverse Cable Curl"
+  },
+  {
+   "equipment": [
+    "mat"
+   ],
+   "group": "core",
+   "id": "Reverse_Crunch",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Reverse Crunch"
+  },
+  {
+   "equipment": [
+    "dumbbells"
+   ],
+   "group": "shoulders",
+   "id": "Reverse_Flyes",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Reverse Flyes"
+  },
+  {
+   "equipment": [
+    "dumbbells"
+   ],
+   "group": "shoulders",
+   "id": "Reverse_Flyes_With_External_Rotation",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Reverse Flyes With External Rotation"
+  },
+  {
+   "equipment": [
+    "barbell"
+   ],
+   "group": "back",
+   "id": "Reverse_Grip_Bent-Over_Rows",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Reverse Grip Bent-Over Rows"
+  },
+  {
+   "equipment": [
+    "cable"
+   ],
+   "group": "arms",
+   "id": "Reverse_Grip_Triceps_Pushdown",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Reverse Grip Triceps Pushdown"
+  },
+  {
+   "equipment": [
+    "barbell",
+    "bench"
+   ],
+   "group": "arms",
+   "id": "Reverse_Triceps_Bench_Press",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Reverse Triceps Bench Press"
+  },
+  {
+   "equipment": [
+    "barbell"
+   ],
+   "group": "legs",
+   "id": "Rocking_Standing_Calf_Raise",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Rocking Standing Calf Raise"
+  },
+  {
+   "equipment": [
+    "barbell"
+   ],
+   "group": "legs",
+   "id": "Romanian_Deadlift",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Romanian Deadlift"
+  },
+  {
+   "equipment": [],
+   "group": "core",
+   "id": "Russian_Twist",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Russian Twist"
+  },
+  {
+   "equipment": [
+    "barbell",
+    "bench"
+   ],
+   "group": "shoulders",
+   "id": "Seated_Barbell_Military_Press",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Seated Barbell Military Press"
+  },
+  {
+   "equipment": [
+    "barbell",
+    "bench"
+   ],
+   "group": "core",
+   "id": "Seated_Barbell_Twist",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Seated Barbell Twist"
+  },
+  {
+   "equipment": [
+    "bench",
+    "dumbbells"
+   ],
+   "group": "arms",
+   "id": "Seated_Bent-Over_One-Arm_Dumbbell_Triceps_Extension",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Seated Bent-Over One-Arm Dumbbell Triceps Extension"
+  },
+  {
+   "equipment": [
+    "bench",
+    "dumbbells"
+   ],
+   "group": "shoulders",
+   "id": "Seated_Bent-Over_Rear_Delt_Raise",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Seated Bent-Over Rear Delt Raise"
+  },
+  {
+   "equipment": [
+    "bench",
+    "dumbbells"
+   ],
+   "group": "arms",
+   "id": "Seated_Bent-Over_Two-Arm_Dumbbell_Triceps_Extension",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Seated Bent-Over Two-Arm Dumbbell Triceps Extension"
+  },
+  {
+   "equipment": [
+    "cable"
+   ],
+   "group": "back",
+   "id": "Seated_Cable_Rows",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Seated Cable Rows"
+  },
+  {
+   "equipment": [
+    "cable"
+   ],
+   "group": "shoulders",
+   "id": "Seated_Cable_Shoulder_Press",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Seated Cable Shoulder Press"
+  },
+  {
+   "equipment": [
+    "barbell",
+    "bench"
+   ],
+   "group": "arms",
+   "id": "Seated_Close-Grip_Concentration_Barbell_Curl",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Seated Close-Grip Concentration Barbell Curl"
+  },
+  {
+   "equipment": [
+    "bench",
+    "dumbbells"
+   ],
+   "group": "arms",
+   "id": "Seated_Dumbbell_Curl",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Seated Dumbbell Curl"
+  },
+  {
+   "equipment": [
+    "bench",
+    "dumbbells"
+   ],
+   "group": "arms",
+   "id": "Seated_Dumbbell_Inner_Biceps_Curl",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Seated Dumbbell Inner Biceps Curl"
+  },
+  {
+   "equipment": [
+    "bench",
+    "dumbbells"
+   ],
+   "group": "arms",
+   "id": "Seated_Dumbbell_Palms-Down_Wrist_Curl",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Seated Dumbbell Palms-Down Wrist Curl"
+  },
+  {
+   "equipment": [
+    "bench",
+    "dumbbells"
+   ],
+   "group": "arms",
+   "id": "Seated_Dumbbell_Palms-Up_Wrist_Curl",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Seated Dumbbell Palms-Up Wrist Curl"
+  },
+  {
+   "equipment": [
+    "bench",
+    "dumbbells"
+   ],
+   "group": "shoulders",
+   "id": "Seated_Dumbbell_Press",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Seated Dumbbell Press"
+  },
+  {
+   "equipment": [],
+   "group": "core",
+   "id": "Seated_Flat_Bench_Leg_Pull-In",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Seated Flat Bench Leg Pull-In"
+  },
+  {
+   "equipment": [],
+   "group": "core",
+   "id": "Seated_Leg_Tucks",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Seated Leg Tucks"
+  },
+  {
+   "equipment": [
+    "bench",
+    "dumbbells"
+   ],
+   "group": "arms",
+   "id": "Seated_One-Arm_Dumbbell_Palms-Down_Wrist_Curl",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Seated One-Arm Dumbbell Palms-Down Wrist Curl"
+  },
+  {
+   "equipment": [
+    "bench",
+    "dumbbells"
+   ],
+   "group": "arms",
+   "id": "Seated_One-Arm_Dumbbell_Palms-Up_Wrist_Curl",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Seated One-Arm Dumbbell Palms-Up Wrist Curl"
+  },
+  {
+   "equipment": [
+    "cable"
+   ],
+   "group": "back",
+   "id": "Seated_One-arm_Cable_Pulley_Rows",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Seated One-arm Cable Pulley Rows"
+  },
+  {
+   "equipment": [
+    "barbell",
+    "bench"
+   ],
+   "group": "arms",
+   "id": "Seated_Palm-Up_Barbell_Wrist_Curl",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Seated Palm-Up Barbell Wrist Curl"
+  },
+  {
+   "equipment": [
+    "barbell",
+    "bench"
+   ],
+   "group": "arms",
+   "id": "Seated_Palms-Down_Barbell_Wrist_Curl",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Seated Palms-Down Barbell Wrist Curl"
+  },
+  {
+   "equipment": [
+    "bench",
+    "dumbbells"
+   ],
+   "group": "shoulders",
+   "id": "Seated_Side_Lateral_Raise",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Seated Side Lateral Raise"
+  },
+  {
+   "equipment": [
+    "bench",
+    "dumbbells"
+   ],
+   "group": "arms",
+   "id": "Seated_Triceps_Press",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Seated Triceps Press"
+  },
+  {
+   "equipment": [
+    "cable"
+   ],
+   "group": "arms",
+   "id": "Seated_Two-Arm_Palms-Up_Low-Pulley_Wrist_Curl",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Seated Two-Arm Palms-Up Low-Pulley Wrist Curl"
+  },
+  {
+   "equipment": [
+    "dumbbells"
+   ],
+   "group": "shoulders",
+   "id": "See-Saw_Press_Alternating_Side_Press",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "See-Saw Press (Alternating Side Press)"
+  },
+  {
+   "equipment": [
+    "cable"
+   ],
+   "group": "back",
+   "id": "Shotgun_Row",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Shotgun Row"
+  },
+  {
+   "equipment": [
+    "bands"
+   ],
+   "group": "shoulders",
+   "id": "Shoulder_Press_-_With_Bands",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Shoulder Press - With Bands"
+  },
+  {
+   "equipment": [
+    "mat"
+   ],
+   "group": "core",
+   "id": "Side_Bridge",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "seconds",
+   "name": "Side Bridge"
+  },
+  {
+   "equipment": [],
+   "group": "core",
+   "id": "Side_Jackknife",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Side Jackknife"
+  },
+  {
+   "equipment": [
+    "dumbbells"
+   ],
+   "group": "shoulders",
+   "id": "Side_Lateral_Raise",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Side Lateral Raise"
+  },
+  {
+   "equipment": [
+    "dumbbells"
+   ],
+   "group": "shoulders",
+   "id": "Side_Laterals_to_Front_Raise",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Side Laterals to Front Raise"
+  },
+  {
+   "equipment": [
+    "cable"
+   ],
+   "group": "chest",
+   "id": "Single-Arm_Cable_Crossover",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Single-Arm Cable Crossover"
+  },
+  {
+   "equipment": [
+    "barbell"
+   ],
+   "group": "shoulders",
+   "id": "Single-Arm_Linear_Jammer",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Single-Arm Linear Jammer"
+  },
+  {
+   "equipment": [],
+   "group": "chest",
+   "id": "Single-Arm_Push-Up",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Single-Arm Push-Up"
+  },
+  {
+   "equipment": [
+    "dumbbells"
+   ],
+   "group": "shoulders",
+   "id": "Single_Dumbbell_Raise",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Single Dumbbell Raise"
+  },
+  {
+   "equipment": [
+    "mat"
+   ],
+   "group": "legs",
+   "id": "Single_Leg_Glute_Bridge",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Single Leg Glute Bridge"
+  },
+  {
+   "equipment": [
+    "mat"
+   ],
+   "group": "core",
+   "id": "Sit-Up",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Sit-Up"
+  },
+  {
+   "equipment": [
+    "bands"
+   ],
+   "group": "arms",
+   "id": "Speed_Band_Overhead_Triceps",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Speed Band Overhead Triceps"
+  },
+  {
+   "equipment": [
+    "dumbbells"
+   ],
+   "group": "core",
+   "id": "Spell_Caster",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Spell Caster"
+  },
+  {
+   "equipment": [],
+   "group": "core",
+   "id": "Spider_Crawl",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Spider Crawl"
+  },
+  {
+   "equipment": [
+    "dumbbells"
+   ],
+   "group": "legs",
+   "id": "Split_Squat_with_Dumbbells",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Split Squat with Dumbbells"
+  },
+  {
+   "equipment": [
+    "bands"
+   ],
+   "group": "legs",
+   "id": "Squats_-_With_Bands",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Squats - With Bands"
+  },
+  {
+   "equipment": [
+    "dumbbells"
+   ],
+   "group": "shoulders",
+   "id": "Standing_Alternating_Dumbbell_Press",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Standing Alternating Dumbbell Press"
+  },
+  {
+   "equipment": [
+    "barbell"
+   ],
+   "group": "legs",
+   "id": "Standing_Barbell_Calf_Raise",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Standing Barbell Calf Raise"
+  },
+  {
+   "equipment": [
+    "dumbbells"
+   ],
+   "group": "arms",
+   "id": "Standing_Bent-Over_One-Arm_Dumbbell_Triceps_Extension",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Standing Bent-Over One-Arm Dumbbell Triceps Extension"
+  },
+  {
+   "equipment": [
+    "dumbbells"
+   ],
+   "group": "arms",
+   "id": "Standing_Bent-Over_Two-Arm_Dumbbell_Triceps_Extension",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Standing Bent-Over Two-Arm Dumbbell Triceps Extension"
+  },
+  {
+   "equipment": [
+    "cable"
+   ],
+   "group": "arms",
+   "id": "Standing_Biceps_Cable_Curl",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Standing Biceps Cable Curl"
+  },
+  {
+   "equipment": [
+    "barbell"
+   ],
+   "group": "shoulders",
+   "id": "Standing_Bradford_Press",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Standing Bradford Press"
+  },
+  {
+   "equipment": [
+    "cable"
+   ],
+   "group": "chest",
+   "id": "Standing_Cable_Chest_Press",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Standing Cable Chest Press"
+  },
+  {
+   "equipment": [
+    "cable"
+   ],
+   "group": "core",
+   "id": "Standing_Cable_Lift",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Standing Cable Lift"
+  },
+  {
+   "equipment": [
+    "cable"
+   ],
+   "group": "core",
+   "id": "Standing_Cable_Wood_Chop",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Standing Cable Wood Chop"
+  },
+  {
+   "equipment": [
+    "dumbbells"
+   ],
+   "group": "arms",
+   "id": "Standing_Concentration_Curl",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Standing Concentration Curl"
+  },
+  {
+   "equipment": [
+    "dumbbells"
+   ],
+   "group": "legs",
+   "id": "Standing_Dumbbell_Calf_Raise",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Standing Dumbbell Calf Raise"
+  },
+  {
+   "equipment": [
+    "dumbbells"
+   ],
+   "group": "shoulders",
+   "id": "Standing_Dumbbell_Press",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Standing Dumbbell Press"
+  },
+  {
+   "equipment": [
+    "dumbbells"
+   ],
+   "group": "arms",
+   "id": "Standing_Dumbbell_Reverse_Curl",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Standing Dumbbell Reverse Curl"
+  },
+  {
+   "equipment": [
+    "dumbbells"
+   ],
+   "group": "shoulders",
+   "id": "Standing_Dumbbell_Straight-Arm_Front_Delt_Raise_Above_Head",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Standing Dumbbell Straight-Arm Front Delt Raise Above Head"
+  },
+  {
+   "equipment": [
+    "dumbbells"
+   ],
+   "group": "arms",
+   "id": "Standing_Dumbbell_Triceps_Extension",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Standing Dumbbell Triceps Extension"
+  },
+  {
+   "equipment": [
+    "dumbbells"
+   ],
+   "group": "back",
+   "id": "Standing_Dumbbell_Upright_Row",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Standing Dumbbell Upright Row"
+  },
+  {
+   "equipment": [
+    "barbell"
+   ],
+   "group": "shoulders",
+   "id": "Standing_Front_Barbell_Raise_Over_Head",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Standing Front Barbell Raise Over Head"
+  },
+  {
+   "equipment": [
+    "dumbbells"
+   ],
+   "group": "arms",
+   "id": "Standing_Inner-Biceps_Curl",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Standing Inner-Biceps Curl"
+  },
+  {
+   "equipment": [
+    "cable"
+   ],
+   "group": "shoulders",
+   "id": "Standing_Low-Pulley_Deltoid_Raise",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Standing Low-Pulley Deltoid Raise"
+  },
+  {
+   "equipment": [
+    "cable"
+   ],
+   "group": "arms",
+   "id": "Standing_Low-Pulley_One-Arm_Triceps_Extension",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Standing Low-Pulley One-Arm Triceps Extension"
+  },
+  {
+   "equipment": [
+    "barbell"
+   ],
+   "group": "shoulders",
+   "id": "Standing_Military_Press",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Standing Military Press"
+  },
+  {
+   "equipment": [
+    "cable"
+   ],
+   "group": "arms",
+   "id": "Standing_One-Arm_Cable_Curl",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Standing One-Arm Cable Curl"
+  },
+  {
+   "equipment": [
+    "bench",
+    "dumbbells"
+   ],
+   "group": "arms",
+   "id": "Standing_One-Arm_Dumbbell_Curl_Over_Incline_Bench",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Standing One-Arm Dumbbell Curl Over Incline Bench"
+  },
+  {
+   "equipment": [
+    "dumbbells"
+   ],
+   "group": "arms",
+   "id": "Standing_One-Arm_Dumbbell_Triceps_Extension",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Standing One-Arm Dumbbell Triceps Extension"
+  },
+  {
+   "equipment": [
+    "barbell"
+   ],
+   "group": "arms",
+   "id": "Standing_Overhead_Barbell_Triceps_Extension",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Standing Overhead Barbell Triceps Extension"
+  },
+  {
+   "equipment": [
+    "dumbbells"
+   ],
+   "group": "shoulders",
+   "id": "Standing_Palm-In_One-Arm_Dumbbell_Press",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Standing Palm-In One-Arm Dumbbell Press"
+  },
+  {
+   "equipment": [
+    "dumbbells"
+   ],
+   "group": "shoulders",
+   "id": "Standing_Palms-In_Dumbbell_Press",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Standing Palms-In Dumbbell Press"
+  },
+  {
+   "equipment": [
+    "barbell"
+   ],
+   "group": "arms",
+   "id": "Standing_Palms-Up_Barbell_Behind_The_Back_Wrist_Curl",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Standing Palms-Up Barbell Behind The Back Wrist Curl"
+  },
+  {
+   "equipment": [],
+   "group": "arms",
+   "id": "Standing_Towel_Triceps_Extension",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Standing Towel Triceps Extension"
+  },
+  {
+   "equipment": [
+    "barbell"
+   ],
+   "group": "legs",
+   "id": "Stiff-Legged_Barbell_Deadlift",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Stiff-Legged Barbell Deadlift"
+  },
+  {
+   "equipment": [
+    "dumbbells"
+   ],
+   "group": "legs",
+   "id": "Stiff-Legged_Dumbbell_Deadlift",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Stiff-Legged Dumbbell Deadlift"
+  },
+  {
+   "equipment": [
+    "barbell"
+   ],
+   "group": "back",
+   "id": "Stiff_Leg_Barbell_Good_Morning",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Stiff Leg Barbell Good Morning"
+  },
+  {
+   "equipment": [
+    "dumbbells"
+   ],
+   "group": "chest",
+   "id": "Straight-Arm_Dumbbell_Pullover",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Straight-Arm Dumbbell Pullover"
+  },
+  {
+   "equipment": [
+    "cable"
+   ],
+   "group": "back",
+   "id": "Straight-Arm_Pulldown",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Straight-Arm Pulldown"
+  },
+  {
+   "equipment": [
+    "barbell",
+    "bench"
+   ],
+   "group": "back",
+   "id": "Straight_Bar_Bench_Mid_Rows",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Straight Bar Bench Mid Rows"
+  },
+  {
+   "equipment": [
+    "barbell",
+    "bench"
+   ],
+   "group": "shoulders",
+   "id": "Straight_Raises_on_Incline_Bench",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Straight Raises on Incline Bench"
+  },
+  {
+   "equipment": [
+    "barbell"
+   ],
+   "group": "back",
+   "id": "T-Bar_Row_with_Handle",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "T-Bar Row with Handle"
+  },
+  {
+   "equipment": [
+    "dumbbells"
+   ],
+   "group": "arms",
+   "id": "Tate_Press",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Tate Press"
+  },
+  {
+   "equipment": [
+    "dumbbells"
+   ],
+   "group": "arms",
+   "id": "Tricep_Dumbbell_Kickback",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Tricep Dumbbell Kickback"
+  },
+  {
+   "equipment": [
+    "cable"
+   ],
+   "group": "arms",
+   "id": "Triceps_Pushdown",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Triceps Pushdown"
+  },
+  {
+   "equipment": [
+    "cable"
+   ],
+   "group": "arms",
+   "id": "Triceps_Pushdown_-_V-Bar_Attachment",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Triceps Pushdown - V-Bar Attachment"
+  },
+  {
+   "equipment": [
+    "mat"
+   ],
+   "group": "core",
+   "id": "Tuck_Crunch",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Tuck Crunch"
+  },
+  {
+   "equipment": [
+    "bench",
+    "dumbbells"
+   ],
+   "group": "arms",
+   "id": "Two-Arm_Dumbbell_Preacher_Curl",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Two-Arm Dumbbell Preacher Curl"
+  },
+  {
+   "equipment": [
+    "kettlebell"
+   ],
+   "group": "shoulders",
+   "id": "Two-Arm_Kettlebell_Military_Press",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Two-Arm Kettlebell Military Press"
+  },
+  {
+   "equipment": [
+    "kettlebell"
+   ],
+   "group": "back",
+   "id": "Two-Arm_Kettlebell_Row",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Two-Arm Kettlebell Row"
+  },
+  {
+   "equipment": [
+    "cable"
+   ],
+   "group": "back",
+   "id": "Underhand_Cable_Pulldowns",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Underhand Cable Pulldowns"
+  },
+  {
+   "equipment": [
+    "barbell"
+   ],
+   "group": "shoulders",
+   "id": "Upright_Barbell_Row",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Upright Barbell Row"
+  },
+  {
+   "equipment": [
+    "cable"
+   ],
+   "group": "back",
+   "id": "Upright_Cable_Row",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Upright Cable Row"
+  },
+  {
+   "equipment": [
+    "bands"
+   ],
+   "group": "back",
+   "id": "Upright_Row_-_With_Bands",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Upright Row - With Bands"
+  },
+  {
+   "equipment": [
+    "cable"
+   ],
+   "group": "back",
+   "id": "V-Bar_Pulldown",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "V-Bar Pulldown"
+  },
+  {
+   "equipment": [
+    "barbell",
+    "bench"
+   ],
+   "group": "chest",
+   "id": "Wide-Grip_Barbell_Bench_Press",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Wide-Grip Barbell Bench Press"
+  },
+  {
+   "equipment": [
+    "barbell",
+    "bench"
+   ],
+   "group": "chest",
+   "id": "Wide-Grip_Decline_Barbell_Bench_Press",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Wide-Grip Decline Barbell Bench Press"
+  },
+  {
+   "equipment": [
+    "barbell",
+    "bench"
+   ],
+   "group": "chest",
+   "id": "Wide-Grip_Decline_Barbell_Pullover",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Wide-Grip Decline Barbell Pullover"
+  },
+  {
+   "equipment": [
+    "cable"
+   ],
+   "group": "back",
+   "id": "Wide-Grip_Lat_Pulldown",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Wide-Grip Lat Pulldown"
+  },
+  {
+   "equipment": [
+    "barbell"
+   ],
+   "group": "arms",
+   "id": "Wide-Grip_Standing_Barbell_Curl",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Wide-Grip Standing Barbell Curl"
+  },
+  {
+   "equipment": [
+    "barbell",
+    "squat_rack"
+   ],
+   "group": "legs",
+   "id": "Wide_Stance_Barbell_Squat",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Wide Stance Barbell Squat"
+  },
+  {
+   "equipment": [
+    "barbell"
+   ],
+   "group": "arms",
+   "id": "Wrist_Rotations_with_Straight_Bar",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Wrist Rotations with Straight Bar"
+  },
+  {
+   "equipment": [
+    "dumbbells"
+   ],
+   "group": "arms",
+   "id": "Zottman_Curl",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Zottman Curl"
+  },
+  {
+   "equipment": [
+    "bench",
+    "dumbbells"
+   ],
+   "group": "arms",
+   "id": "Zottman_Preacher_Curl",
+   "kind": "strength",
+   "level": "intermediate",
+   "mode": "reps",
+   "name": "Zottman Preacher Curl"
+  },
+  {
+   "equipment": [
+    "mat"
+   ],
+   "group": "core",
+   "id": "own_bird_dog",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Bird Dog"
+  },
+  {
+   "equipment": [],
+   "group": "legs",
+   "id": "own_calf_raise",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Bodyweight Calf Raise"
+  },
+  {
+   "equipment": [
+    "mat"
+   ],
+   "group": "core",
+   "id": "own_dead_bug",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Dead Bug"
+  },
+  {
+   "equipment": [
+    "mat"
+   ],
+   "group": "legs",
+   "id": "own_glute_bridge",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Glute Bridge"
+  },
+  {
+   "equipment": [],
+   "group": "legs",
+   "id": "own_reverse_lunge",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Reverse Lunge"
+  },
+  {
+   "equipment": [],
+   "group": "legs",
+   "id": "own_split_squat",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Bodyweight Split Squat"
+  },
+  {
+   "equipment": [
+    "mat"
+   ],
+   "group": "back",
+   "id": "own_superman",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Superman"
+  },
+  {
+   "equipment": [],
+   "group": "back",
+   "id": "own_wall_angel",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Wall Angel"
+  },
+  {
+   "equipment": [],
+   "group": "chest",
+   "id": "own_wall_pushup",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "reps",
+   "name": "Wall Push-Up"
+  },
+  {
+   "equipment": [],
+   "group": "legs",
+   "id": "own_wall_sit",
+   "kind": "strength",
+   "level": "beginner",
+   "mode": "seconds",
+   "name": "Wall Sit"
+  },
+  {
+   "equipment": [],
+   "group": "run",
+   "id": "run_easy",
+   "kind": "run",
+   "level": "beginner",
+   "mode": "seconds",
+   "name": "Easy run"
+  },
+  {
+   "equipment": [],
+   "group": "run",
+   "id": "run_intervals",
+   "kind": "run",
+   "level": "intermediate",
+   "mode": "seconds",
+   "name": "Run intervals"
+  },
+  {
+   "equipment": [],
+   "group": "run",
+   "id": "run_long",
+   "kind": "run",
+   "level": "intermediate",
+   "mode": "seconds",
+   "name": "Long run"
+  }
+ ],
+ "source": {
+  "commit": "f00c92c7dcf1216a928a52c3706c7ce8e2f71ed5",
+  "file": "dist/exercises.json",
+  "license": "Unlicense (public domain dedication, LICENSE.md in the source repository)",
+  "name": "free-exercise-db",
+  "note": "From the dataset only ids, names, equipment, primary muscle, level and force are used; no instructions or images. Entries with ids starting own_ or run_ are our own.",
+  "retrieved": "2026-11-11",
+  "url": "https://github.com/yuhonas/free-exercise-db"
+ }
+}
